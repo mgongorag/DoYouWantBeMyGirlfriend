@@ -1,0 +1,31 @@
+.container-btn{
+    width: 100%;
+    height: 300px;
+    position: sticky;
+}
+
+#btn-yes{
+    position: absolute;
+    top: 50%;
+    right: 45%;
+    width: 150px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#btn-no{
+    position: absolute;
+   
+    width: 100px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#spinner{
+    position: absolute;
+    top: 50%;
+    right: 45%;
+    width: 100px;
+    height: 100px;
+}
+
